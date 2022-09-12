@@ -1,8 +1,0 @@
-C:\Users\shubh\source\repos\Day_02_Sept06\Day_02_Sept06\bin\Debug\Day_02_Sept06.exe.config
-C:\Users\shubh\source\repos\Day_02_Sept06\Day_02_Sept06\bin\Debug\Day_02_Sept06.exe
-C:\Users\shubh\source\repos\Day_02_Sept06\Day_02_Sept06\bin\Debug\Day_02_Sept06.pdb
-C:\Users\shubh\source\repos\Day_02_Sept06\Day_02_Sept06\obj\Debug\Day_02_Sept06.csproj.AssemblyReference.cache
-C:\Users\shubh\source\repos\Day_02_Sept06\Day_02_Sept06\obj\Debug\Day_02_Sept06.csproj.SuggestedBindingRedirects.cache
-C:\Users\shubh\source\repos\Day_02_Sept06\Day_02_Sept06\obj\Debug\Day_02_Sept06.csproj.CoreCompileInputs.cache
-C:\Users\shubh\source\repos\Day_02_Sept06\Day_02_Sept06\obj\Debug\Day_02_Sept06.exe
-C:\Users\shubh\source\repos\Day_02_Sept06\Day_02_Sept06\obj\Debug\Day_02_Sept06.pdb
