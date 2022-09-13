@@ -1,0 +1,8 @@
+C:\Users\shubh\source\repos\Day05_Sept12\Day05_Sept12\bin\Debug\Day05_Sept12.exe.config
+C:\Users\shubh\source\repos\Day05_Sept12\Day05_Sept12\bin\Debug\Day05_Sept12.exe
+C:\Users\shubh\source\repos\Day05_Sept12\Day05_Sept12\bin\Debug\Day05_Sept12.pdb
+C:\Users\shubh\source\repos\Day05_Sept12\Day05_Sept12\obj\Debug\Day05_Sept12.csproj.AssemblyReference.cache
+C:\Users\shubh\source\repos\Day05_Sept12\Day05_Sept12\obj\Debug\Day05_Sept12.csproj.SuggestedBindingRedirects.cache
+C:\Users\shubh\source\repos\Day05_Sept12\Day05_Sept12\obj\Debug\Day05_Sept12.csproj.CoreCompileInputs.cache
+C:\Users\shubh\source\repos\Day05_Sept12\Day05_Sept12\obj\Debug\Day05_Sept12.exe
+C:\Users\shubh\source\repos\Day05_Sept12\Day05_Sept12\obj\Debug\Day05_Sept12.pdb
